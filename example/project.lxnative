@@ -1,0 +1,6 @@
+NAME=example
+PORT=8080
+EXEC_PATH=/home/gtg/Documents/projects/code/workspace/native/lxnative/example/
+EXEC_FS=BDL
+EXEC_INCLUDE=main.zip
+EXEC_PCKG=com.example.app
